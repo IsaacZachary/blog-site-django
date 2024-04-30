@@ -28,11 +28,11 @@
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/ashish-makes/django-tailwind-blog.git
+git clone https://github.com/IsaacZachary/blog-site-django.git
 ```
 2. Navigate to the project directory:
 ```
-cd `django-tailwind-blog`
+cd `blog-site-django`
 ```
 3. Create and activate a new virtual environment:
 ```
