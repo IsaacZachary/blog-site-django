@@ -121,7 +121,7 @@ To deploy this project to a web server, you can follow these general steps:
 1. Set up a web server that can run Python applications. This could be a VPS, a PaaS like Heroku, or a cloud-based server like AWS.
 2. Clone the repository to your server:
 ```
-git clone https://github.com/ashish-makes/django-tailwind-blog.git
+git clone https://github.com/IsaacZachary/blog-site-django.git
 ```
 3. Install the project dependencies on your server using `pip`:
 ```
