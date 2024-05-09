@@ -9,6 +9,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+![PLP Hackathon II Python Development](https://github.com/IsaacZachary/blog-site-django/blob/main/Isaac%20Zachary%20PLP%20Hackathon%20II%20Python%20Development.jpg)
+
 ## Introduction
 **"Django Tailwind Blog"** is a developer blog and portfolio website built using **Django** and **Tailwind CSS**. It includes several pages such as Home, About, Contact, Blog, Projects, Categories, and custom 404 pages. The project features a clean and modern design that is fully responsive and optimized for performance. It includes a powerful admin interface for managing the content, and is easy to customize and deploy to a production environment.
 
@@ -24,7 +26,7 @@
   * [Admin Screenshots](#admin-screenshots)
   * [Deployment](#deployment)
   * [Conclusion](#conclusion)
-  
+    
 ## Installation
 1. Clone the repository:
 ```
